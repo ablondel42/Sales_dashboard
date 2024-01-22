@@ -1,0 +1,38 @@
+{
+  "name": "sales_dashboard_api",
+  "version": "1.0.0",
+  "description": "MERN Stack Admin Dashboard. Frontend: Material UI => Data Grid, Nivo Charts, Redux Toolkit and Redux Toolkit Query. Backend: Node JS, Express Js, Mongoose, and MongoDB. Data Models: Entity Relation…",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "MERN",
+    "full",
+    "stack",
+    "dashboard",
+    "sales"
+  ],
+  "author": "ablondel19",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "country-iso-2-to-3": "^1.1.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "helmet": "^7.0.0",
+    "mongoose": "^7.4.2",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.0.1"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.13",
+    "@types/express": "^4.17.17",
+    "@types/mongoose": "^5.11.97",
+    "@types/morgan": "^1.9.4"
+  }
+}
