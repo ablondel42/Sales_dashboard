@@ -1,7 +1,7 @@
 # Portfolio_sales_dashboard
 MERN Full-Stack Admin Dashboard for tracking sales & customers.
 Features: server side pagination, Datagrids, Pie chart, Line chart, geographic chart.
-Dark/Light mode.
+Dark/Light mode. (The data displayed on the page is totally random and inaccurate)
 
 
 
