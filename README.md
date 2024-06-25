@@ -7,3 +7,5 @@ Dark/Light mode. (The data displayed on the page is totally random and inaccurat
 
 ![Alt Text](https://github.com/ablondel19/Portfolio_sales_dashboard/raw/main/assets/1.png)
 ![Alt Text](https://github.com/ablondel19/Portfolio_sales_dashboard/raw/main/assets/2.png)
+![Alt Text](https://github.com/ablondel19/Portfolio_sales_dashboard/raw/main/assets/3.png)
+![Alt Text](https://github.com/ablondel19/Portfolio_sales_dashboard/raw/main/assets/4.png)
